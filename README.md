@@ -15,7 +15,7 @@ Skapa en funktion som tar in två objekt som båda slår en tärning. Gör däre
 
 ### Steg 3
 
-Skapa en cup där flera spelare möter varandra. Be användaren mata in hur många spelare som ska spela. Se sedan till att samtliga spelare slår tärning mot varandra och redovisa top 3.
+Skapa en liga där flera spelare möter varandra. Be användaren mata in hur många spelare som ska spela. Se sedan till att samtliga spelare slår tärning mot varandra två gånger och redovisa top 3.
 
 ## Författare
 
